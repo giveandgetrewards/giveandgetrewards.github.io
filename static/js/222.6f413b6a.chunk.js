@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgiveandget_holding=self.webpackChunkgiveandget_holding||[]).push([[222],{222:function(e,n,s){s.r(n);s(791);var i=s(184);n.default=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)("div",{className:"header",children:(0,i.jsx)("div",{className:"logo"})}),(0,i.jsx)("h1",{children:"Coming Soon"})]})}}}]);
+//# sourceMappingURL=222.6f413b6a.chunk.js.map
